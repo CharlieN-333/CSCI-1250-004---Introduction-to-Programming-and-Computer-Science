@@ -1,0 +1,16 @@
+Id, Title, Type, DailyLateFee
+1, To Kill a Mockingbird, Book, $0.25
+2, 1984, Book, $0.25
+3, The Great Gatsby, Book, $0.25
+4,	The Catcher in the Rye, Book, $0.25
+5,	The Hobbit, Book, $0.30
+6,	The Lord of the Rings, Book, $0.35
+7,	A Brief History of Time, Book, $0.20
+8,	Sapiens: A Brief History of Humankind, Book, $0.20
+9,	The Cat in the Hat, Book, $0.10
+10,	Charlotte’s Web, Book, $0.10
+11	The Shawshank Redemption, Movie, $1.50
+12	Inception, Movie, $2.00
+13	The Dark Knight, Movie, $1.75
+14	La La Land, Movie, $1.25
+15	The Godfather, Movie, $2.50

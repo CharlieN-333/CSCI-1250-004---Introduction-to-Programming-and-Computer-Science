@@ -1,0 +1,11 @@
+Id	Title					Type		DailyLateFee
+1	To Kill a Mockingbird			Fiction		$0.25
+2	1984					Fiction		$0.25
+3	The Great Gatsby			Fiction		$0.25
+4	The Catcher in the Rye			Fiction		$0.25
+5	The Hobbit				Fantasy		$0.30
+6	The Lord of the Rings			Fantasy		$0.35
+7	A Brief History of Time			Nonfiction	$0.20
+8	Sapiens: A Brief History of Humankind	Nonfiction	$0.20
+9	The Cat in the Hat			Children’s	$0.10
+10	Charlotte’s Web				Children’s	$0.10
